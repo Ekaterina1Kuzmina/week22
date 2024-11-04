@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.card {
+  border: 2px solid black;
+  margin-top: 70px;
+  box-shadow: inset 5px;
+}
+
+.cardBody {
+  border-top: 2px dashed black ;
+}
